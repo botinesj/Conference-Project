@@ -16,7 +16,7 @@ Please navigate to Conference-Project/phase2/README/README.txt
 <h4>Features Implemented</h4>
 Please navigate to Conference-Project/phase2/README/features.txt
 
-<h3>Feedback</h3>
+<h3>Feedback from the CSC207 Instructional Team</h3>
 
 1. Your project makes good use of:
 * Good use of Single Responsibility Principle, class separation are logical and clean
