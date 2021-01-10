@@ -37,8 +37,7 @@
         exit;
 
     === MacOS ===
-    Download the MySQL Community Server here: 
-    https://dev.mysql.com/downloads/mysql/
+    Download the MySQL Community Server here: https://dev.mysql.com/downloads/mysql/
         Select the DMG Archive Version
         Start installation
         It will ask you to create a password, make sure you remember it
