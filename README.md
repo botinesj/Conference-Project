@@ -8,10 +8,15 @@ Independently create CRC cards for the Phase 1 outline of the project.
 Collaborate with your group to create a program satisfying the Phase 1 outline.
 
 <h4>Phase 2</h4>
-Implement additional mandatory extensions and a minimum of 4 other new features from a list of optional extensions.
+Implement additional mandatory extensions and a minimum of 4 other new features from a list of optional extensions. Also encouraged to create our own new features.
+
+<h4>How to Run</h4>
+Conference-Project/phase2/README/README.txt
+
+<h4>Features Implemented</h4>
+Please navigate to Conference-Project/phase2/README/features.txt
 
 <h3>Feedback</h3>
-
 1. Your project makes good use of:
 * Good use of Single Responsibility Principle, class separation are logical and clean
 * A gateway class that connects database so other classes don't need to interactive with storage directly and it is easier to add other means of storage.
